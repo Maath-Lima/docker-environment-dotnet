@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docker.Session.API", "src\Docker.Session\Docker.Session.API.csproj", "{0D717618-BB54-4247-8638-8A5401DE878A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docker.Session.Data", "src\Docker.Session.Data\Docker.Session.Data.csproj", "{7F1F0871-5281-412E-91BD-4665C215DE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docker.Session.Models", "src\Docker.Session.Models\Docker.Session.Models.csproj", "{1ABFEA44-916C-464F-8ECF-558151970F53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D717618-BB54-4247-8638-8A5401DE878A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D717618-BB54-4247-8638-8A5401DE878A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D717618-BB54-4247-8638-8A5401DE878A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D717618-BB54-4247-8638-8A5401DE878A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1F0871-5281-412E-91BD-4665C215DE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1F0871-5281-412E-91BD-4665C215DE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1F0871-5281-412E-91BD-4665C215DE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1F0871-5281-412E-91BD-4665C215DE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABFEA44-916C-464F-8ECF-558151970F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABFEA44-916C-464F-8ECF-558151970F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABFEA44-916C-464F-8ECF-558151970F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABFEA44-916C-464F-8ECF-558151970F53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21315C37-51DB-41F0-9344-685722B66151}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\Docker.Session.Data.csproj.AssemblyReference.cache
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\Docker.Session.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\Docker.Session.Data.AssemblyInfoInputs.cache
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\Docker.Session.Data.AssemblyInfo.cs
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\Docker.Session.Data.csproj.CoreCompileInputs.cache
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\bin\Debug\net6.0\Docker.Session.Data.deps.json
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\bin\Debug\net6.0\Docker.Session.Data.runtimeconfig.json
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\bin\Debug\net6.0\Docker.Session.Data.dll
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\bin\Debug\net6.0\Docker.Session.Data.pdb
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\bin\Debug\net6.0\Docker.Session.Models.dll
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\bin\Debug\net6.0\Docker.Session.Models.pdb
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\Docker.Session.Data.csproj.CopyComplete
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\Docker.Session.Data.dll
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\refint\Docker.Session.Data.dll
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\Docker.Session.Data.pdb
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\Docker.Session.Data.genruntimeconfig.cache
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session.Data\obj\Debug\net6.0\ref\Docker.Session.Data.dll

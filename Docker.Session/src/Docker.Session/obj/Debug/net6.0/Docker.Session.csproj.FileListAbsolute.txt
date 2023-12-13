@@ -1,0 +1,7 @@
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session\obj\Debug\net6.0\Docker.Session.csproj.AssemblyReference.cache
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session\obj\Debug\net6.0\Docker.Session.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session\obj\Debug\net6.0\Docker.Session.AssemblyInfoInputs.cache
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session\obj\Debug\net6.0\Docker.Session.AssemblyInfo.cs
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session\obj\Debug\net6.0\Docker.Session.csproj.CoreCompileInputs.cache
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session\obj\Debug\net6.0\Docker.Session.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matheus.lima\Desktop\lab\docker-lab\Docker.Net.Environment\Docker.Session\src\Docker.Session\obj\Debug\net6.0\Docker.Session.MvcApplicationPartsAssemblyInfo.cache
