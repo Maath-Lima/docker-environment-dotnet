@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RKF2RpVRpO7NWErY28YLKEl/g8Eqin9lXTczcjDqEeo=",
+  "Source": "Docker.Commands.API",
+  "BasePath": "_content/Docker.Commands.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
