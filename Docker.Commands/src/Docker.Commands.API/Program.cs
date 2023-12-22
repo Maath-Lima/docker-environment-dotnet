@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.PostgreConfigureDbContext(builder.Configuration);
+builder.Services.PostgresConfigureDbContext(builder.Configuration);
 
 var app = builder.Build();
 
