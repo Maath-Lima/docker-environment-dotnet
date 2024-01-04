@@ -18,7 +18,7 @@ FROM build AS publish
 RUN --mount=type=cache,id=nuget,target=/root/.nuget/packages \
 	dotnet publish "Docker.Session.API.csproj" -c Release -o /app/publish
 
-FROM mcr.microsoft.com/dotnet/runtime:6.0
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Docker.Session.API.csproj"]
+ENTRYPOINT ["dotnet", "Docker.Session.API.dll"]
